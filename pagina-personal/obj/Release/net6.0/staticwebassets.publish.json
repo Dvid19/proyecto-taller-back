@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "y3iVFe6dBiusc0XBjxbvItmajUgNvJi+x9eKlhEurG0=",
+  "Source": "pagina-personal",
+  "BasePath": "_content/pagina-personal",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pagina-personal\\wwwroot",
+      "Source": "pagina-personal",
+      "ContentRoot": "C:\\Users\\Administrador\\Documents\\a_BackendWeb\\1 - pagina-personal\\pagina-personal\\wwwroot\\",
+      "BasePath": "_content/pagina-personal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
